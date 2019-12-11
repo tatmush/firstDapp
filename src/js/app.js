@@ -103,7 +103,7 @@ App = {
       loader.hide();
       content.show();
     }).catch(function(error) {
-      console.warn(error);
+      //console.warn(error);
     });
   },
 
